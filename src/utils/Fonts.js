@@ -1,0 +1,76 @@
+const Fonts: any = {
+  fonts: {
+    displayLarge: {},
+    displayMedium: {},
+    displaySmall: {},
+    headlineLarge: {
+      fontFamily: 'Roboto',
+      letterSpacing: 0,
+      fontWeight: '700',
+      lineHeight: 25.78,
+      fontSize: 22,
+    },
+    headlineMedium: {
+      fontFamily: 'Roboto',
+      letterSpacing: 0,
+      fontWeight: '700',
+      lineHeight: 23.44,
+      fontSize: 20,
+    },
+    headlineSmall: {
+      fontFamily: 'Roboto',
+      letterSpacing: 0,
+      fontWeight: '700',
+      lineHeight: 21.09,
+      fontSize: 18,
+    },
+    titleLarge: {
+      fontFamily: 'Roboto',
+      letterSpacing: 0,
+      fontWeight: '700',
+      lineHeight: 28.13,
+      fontSize: 24,
+    },
+    titleMedium: {
+      fontFamily: 'Roboto',
+      letterSpacing: 0,
+      fontWeight: '700',
+      lineHeight: 18.75,
+      fontSize: 16,
+    },
+    titleSmall: {},
+    labelLarge: {},
+    labelMedium: {
+      fontFamily: 'Roboto',
+      letterSpacing: 0,
+      fontWeight: '500',
+      lineHeight: 18.75,
+      fontSize: 16,
+    },
+    labelSmall: {},
+    bodyLarge: {
+      fontFamily: 'Roboto',
+      letterSpacing: 0,
+      fontWeight: '400',
+      lineHeight: 18.75,
+      fontSize: 16,
+    },
+    bodyMedium: {
+      fontFamily: 'Roboto',
+      letterSpacing: 0,
+      fontWeight: '400',
+      lineHeight: 16.41,
+      fontSize: 14,
+    },
+    bodySmall: {
+      fontFamily: 'Roboto',
+      letterSpacing: 0,
+      fontWeight: '400',
+      lineHeight: 11.72,
+      fontSize: 10,
+    },
+    default: {},
+  },
+};
+
+export default Fonts;
